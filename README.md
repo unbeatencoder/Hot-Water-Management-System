@@ -9,4 +9,4 @@ The Report is uploaded here named : Report.pdf
 Following are the Github links for each of them:
 1. Android App: https://github.com/unbeatencoder/SMARTHOSTEL.git
 2. Website for Admin: 
-3. NodeMCU code: 
+3. NodeMCU code: sending_data.ino
