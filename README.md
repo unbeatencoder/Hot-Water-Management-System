@@ -1,4 +1,4 @@
-IOT Project for Hot water Management in Public Sharing Washrooms
+IOT Project for Hot water Management in Public Sharing Washrooms done
 
 Our project comprises of 3 different modules:
 1. Android Application for users
